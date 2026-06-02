@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**BhavaniPitla/BhavaniPitla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bhavani Pitla, passionate about **building web development & real-time scalable projects using AI, ML, and Agentic AI**. 
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: **Medical Cardiovascular Prediction** & **Travel Monitor Agent**
+- 🌱 Learning  TAgentic Ai, DSA to strengthen problem solving and technical approcahes.
+- 👯 Ready for collaboration with companies to drive real-time solutions.
+- 😄 Pronouns: She/Her
+- 💬 Languages: **English, Hindi, Telugu**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me
+**Email:** bhavipitla08@gmail.com  
+**Phone:** 9014986560
